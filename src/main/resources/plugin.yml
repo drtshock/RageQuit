@@ -1,0 +1,11 @@
+name: RageQuit
+main: com.sgtcaze.ragequit.RageQuit
+version: ${project.version}
+author: sgtcaze
+description: sgtcaze's awesome plugin.
+website: http://sgtcaze.com
+commands:
+   ragequit:
+      description: Reloads the plugin
+      aliases: rq
+      permission: rq.admin
