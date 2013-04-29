@@ -1,7 +1,8 @@
-== TEMPLATE
+== RageQuit
 
-TEMPLATE <DESCRIPTION>
+by sgtcaze
 
-=== Compiling
+=== Commands
 
-Maven 3 is required to compile TEMPLATE
+/ragequit - reloads the config
+
